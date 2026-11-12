@@ -13,6 +13,14 @@ The platform combines AI-assisted athlete storytelling, sponsor discovery, partn
 
 [**▶ Explore the Live Figma Prototype**](https://www.figma.com/proto/3ToxjGkewjYi7wbMirWNCf/Untitled?node-id=3-3&p=f&t=dLx9mQwLSyXG7lRH-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A3)
 
+
+## 📊 Project Presentation
+
+[**▶ View Red Rocks NIL Strategy Presentation (PDF)**](Presentation%20-%20Red%20Rocks.pdf)
+
+Explore the product strategy, proposed NIL revenue opportunities, platform features, and implementation approach behind the Red Rocks NIL platform.
+
+
 ## Key Features
 
 - **Athlete Story Studio:** AI-assisted tools to help athletes develop their personal brands and sponsorship content.
